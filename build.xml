@@ -2,4 +2,4 @@
   <target name="all" description="Do the entire build" >
   <echo>I'm building my software</echo>
   </target>
-  </project>
+ </project>
